@@ -33,4 +33,5 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_name"></a> [name](#output\_name) | The name of the resource group |
+| <a name="output_id"></a> [id](#output\_id) | The Log Analytics Workspace ID |
+| <a name="output_workspace_id"></a> [workspace\_id](#output\_workspace\_id) | The Workspace (or Customer) ID for the Log Analytics Workspace. |
